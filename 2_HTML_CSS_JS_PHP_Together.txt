@@ -1,0 +1,23 @@
+How HTML, CSS, JavaScript & PHP Work Together
+This Program was Created By Yatharth Chauhan
+
+---> How do Websites work?
+
+-> The basic technologies to build any website are HTML, CSS, and JavaScript. 
+    For some server-side processing such as getting a response from some other website or storing data in a database, Php or any other backend programming language is required.
+
+-> Let's try to understand these components of a website with the help of a car example. 
+   The body of the car can be considered as HTML, its paint, and decorations as CSS, and the engine as JavaScript. 
+   Just like the components of a car that performs various functions, HTML (hypertext mark-up language) is the main skeleton of a website which usually works with predefined tags. 
+   This skeleton can be compared with the car's body.
+
+-> CSS (Cascading style sheets) is used to make the website enhanced with different colors and animations. CSS is analogical with the paint and decorations of a car. 
+   JavaScript is also used to perform some sort of scripting, advanced actions with the website components. JS is used to make the website dynamic using client-side scripting.
+
+-> On the other hand, PHP (Hypertext Preprocessor) is a very popular language for website development. 
+   It executes scripts on the server-side. Php is easy enough to become the beginner's first scripting language. 
+   In fact, I started my web development journey with PHP and never regretted the decision.
+
+-> Whenever a client requests a website page from the browser, an HTTP request is received and processed by the server. 
+   The server gives some response in return which consists of HTML, CSS, and JS, depending upon our code, request, and complexity of the website. 
+   This response is then rendered and shown by the web browser. 
