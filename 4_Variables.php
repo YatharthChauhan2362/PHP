@@ -26,7 +26,7 @@ Characteristically, a program comprises commands or instructions for the compute
 
 Example
 
-$name = "Harry"; // Variable 1: 
+$name = "Yatharth"; // Variable 1: 
 $income = 200;   // Variable 2: 
 
 Now, we can use the echo command in the following way,
@@ -45,12 +45,11 @@ Important Notes:
 
 
 <?php
-// echo "This is Tutorial 5";
 // Variables are containers for storing information
 // Starts with a $
-$name = "Shubham";
+$name = "Yatharth";
 // Variables are case sensitive
-$namE = "Capital wala Shubham";
+$namE = "Capital wala Yatharth";
 $income = 200.8;
 
 echo "This guy is $name and his income is Rs. $income<br>";
