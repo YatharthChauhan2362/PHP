@@ -1,0 +1,30 @@
+-> Creating Database & Tables
+-> This Program was Created By Yatharth Chauhan
+
+-> What is phpMyAdmin?
+phpMyAdmin is a web interface that helps you to communicate with the database.
+phpMyAdmin gives you a web interface that will help you to create databases or update databases.
+
+
+---> Using phpMyAdmin
+-> Now to use phpMyAdmin in our machine we need to start the MySQL service from XAMPP.
+-> If you can't do it try to run the XAMPP with administrative privileges.
+-> Now after starting MySQL you need to click on Admin on the XAMPP control panel which will take you to the localhost/phpMyAdmin page.
+-> Now let's get familiar with the layout of the webpage.
+-> On the left side, you will see the created databases and on the top, you will see a bunch of tabs like status, plugins, etc.
+-> Now let's create a new database by clicking on new on the left side.
+-> Now you will see a textbox where you have to put your database name and then click on create to create the database.
+-> Now we will create a table by clicking on create a table and putting the desired number of rows.
+-> Now if we click on go it will present us with this type of screen.
+
+
+---> Editing a Database
+-> Now we will start entering the values on the columns.
+-> I have used sno(serial no), name, role and doj(date of joining) for the columns.
+-> Now we will move on to the type column where we will choose INT for sno, VARCHAR for name and role,and DATETIME fordoj.
+-> Now we will define how many characters can be inputted into the field. We will tick the A_I (Auto Increment) for sno.
+-> Now, what Auto Increment does? Auto Increment automatically generates sequential numeric values every time that a record is inserted into a table.
+-> Now if we save it we will be able to see our tables on the screen.
+-> If you want to insert records, you can go to the insert tab and insert the records, and to see the records you need to go to the browse tab.
+-> So now let's create an entry from the insert tab and tap on go.
+-> Now we will be presented with this type of screen where it will say it has run an SQL query on the table.
