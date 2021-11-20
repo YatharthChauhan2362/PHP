@@ -1,7 +1,6 @@
 Creating Our First PHP Website 
 This Program was Created By Yatharth Chauhan
 
-
 -> Let’s start creating our first Php website and gain some confidence. 
    Before writing the code, it is important to understand few things about some of the files and folder structure created by XAMPP.
    When XAMPP is installed it creates a folder named XAMPP(By default in the C:// directory).
